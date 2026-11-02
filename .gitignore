@@ -1,0 +1,4 @@
+*.exe
+build/
+.vscode/
+data/students_export.csv
